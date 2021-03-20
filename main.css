@@ -1,0 +1,17 @@
+html {
+  margin: 20px;
+background-color: yello;
+}
+body {
+  font-family: "HelveticaNaue-Light";
+  font-weight:300;
+  color:red;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 50px;
+}
+
+  
